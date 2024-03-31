@@ -1,7 +1,7 @@
 # IIT GPT
 
 ## Overview
-IIT GPT is an intelligent chatbot powered by OpenAI's GPT technology, designed to provide comprehensive information related to our institute. From academic calendars to curriculum details, fee structures, holiday lists, and more, IIT GPT aims to be your one-stop solution for accessing vital information about the Indian Institute of Technology Bhubaneswar.
+IIT GPT is an intelligent chatbot powered by OpenAI's LLM chained with LangChain, designed to provide comprehensive information related to our institute. From academic calendars to curriculum details, fee structures, holiday lists, and more, IIT GPT aims to be your one-stop solution for accessing vital information about the Indian Institute of Technology Bhubaneswar.
 
 ## Features
 - **Academic Calendar**: Stay updated with important dates, events, and schedules within the academic year.
